@@ -1,2 +1,3 @@
-# booklog
-Read books, plant trees. A book tracking application.
+# MyrLivres
+
+Read books
